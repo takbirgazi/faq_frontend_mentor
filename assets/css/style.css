@@ -58,6 +58,7 @@ p{
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
+    color: var(--dark_purple);
 }
 .toggle_title:hover {
     color: #ad28e7;
